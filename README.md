@@ -123,7 +123,8 @@ Comparação de desempenho por:
 
 Incluindo análises de receita e conversão.
 
-<img width="1152" height="642" alt="channel_performance" src="https://github.com/user-attachments/assets/04a8262a-1158-42a6-88a5-70439f2189c3" />
+<img width="1151" height="636" alt="channel_performance" src="https://github.com/user-attachments/assets/aa975c3e-92ec-4c9d-a09c-18091715d0bb" />
+
 
 
 ---
