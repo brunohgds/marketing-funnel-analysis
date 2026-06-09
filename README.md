@@ -90,6 +90,9 @@ Visão executiva contendo os principais indicadores de negócio:
 * Evolução da Receita
 * Evolução da Conversão
 
+  <img width="1154" height="642" alt="dashboard_overview" src="https://github.com/user-attachments/assets/ccd2b07d-b1ba-4479-a740-8dd44eb4e948" />
+
+
 ---
 
 ### Funnel Analysis
@@ -104,6 +107,9 @@ Análise completa do funil de conversão:
 
 Além das taxas de conversão entre cada etapa da jornada.
 
+<img width="1155" height="643" alt="funnel_analysis" src="https://github.com/user-attachments/assets/ebb15407-212f-42a1-9ccc-2b9566a40126" />
+
+
 ---
 
 ### Channel & Device Performance
@@ -116,6 +122,9 @@ Comparação de desempenho por:
 * Tipo de dispositivo
 
 Incluindo análises de receita e conversão.
+
+<img width="1152" height="642" alt="channel_performance" src="https://github.com/user-attachments/assets/04a8262a-1158-42a6-88a5-70439f2189c3" />
+
 
 ---
 
